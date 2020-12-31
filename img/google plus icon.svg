@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="19.2"
+   height="12"
+   viewBox="0 0 19.2 12"
+   version="1.1"
+   id="svg57"
+   sodipodi:docname="google plus icon.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata63">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs61" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview59"
+     showgrid="false"
+     inkscape:zoom="54.270831"
+     inkscape:cx="9.6000004"
+     inkscape:cy="6.7370442"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg57" />
+  <path
+     id="google_plus_icon"
+     data-name="google plus icon"
+     d="m 13.717078,7.1588986 a 6.4544782,6.4544782 0 0 1 -6.7203537,6.8346334 6.9967243,6.9967243 0 0 1 0,-13.993448511016 A 6.6818717,6.6818717 0 0 1 11.683363,1.8332253 L 9.7837528,3.6558719 a 3.9274946,3.9274946 0 0 0 -2.7870285,-1.0786616 4.4207636,4.4207636 0 0 0 0,8.8391947 3.7887262,3.7887262 0 0 0 3.9648107,-3.016754 H 6.9967243 V 5.9951101 h 6.6049077 a 5.8515938,5.8515938 0 0 1 0.115446,1.1637885 z M 22.389518,6.226002 V 8.2667133 H 20.358136 V 10.296929 H 18.317424 V 8.2667133 H 16.287208 V 6.226002 h 2.030216 V 4.1981181 h 2.040712 v 2.0313823 z"
+     fill="#2baaec"
+     style="stroke-width:1.16612" />
+</svg>

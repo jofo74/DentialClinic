@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="14.008"
+   height="14.005"
+   viewBox="0 0 14.008 14.005"
+   version="1.1"
+   id="svg75"
+   sodipodi:docname="instagram icon.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata81">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs79" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview77"
+     showgrid="false"
+     inkscape:zoom="42.916156"
+     inkscape:cx="5.639666"
+     inkscape:cy="6.2517745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg75" />
+  <path
+     id="instagram_icon"
+     data-name="instagram icon"
+     d="M 13.951775,9.8864693 A 3.8759928,3.8766155 0 0 1 9.8888792,13.951018 c -1.1564011,0.06598 -4.6196077,0.06598 -5.7760088,0 A 3.8759928,3.8766155 0 0 1 0.04997438,9.8864693 c -0.06596584,-1.1555873 -0.06596584,-4.6193502 0,-5.7759372 A 3.8709954,3.8716173 0 0 1 4.1128704,0.04998233 c 1.1564011,-0.06597644 4.6196077,-0.06597644 5.7760088,0 A 3.8759928,3.8766155 0 0 1 13.951775,4.1135311 c 0.06497,1.1565869 0.06497,4.6173509 0,5.7729382 z M 12.740403,7.0005 a 15.41002,15.412496 0 0 0 -0.281854,-4.1265262 2.3537811,2.3541592 0 0 0 -1.330312,-1.3305249 30.338289,30.343163 0 0 0 -8.2517264,0 A 2.3567795,2.3571582 0 0 0 1.5461995,2.8739738 15.52496,15.527454 0 0 0 1.265345,7.0005 a 15.41002,15.412496 0 0 0 0.2808545,4.126526 2.359778,2.3601571 0 0 0 1.3303111,1.330525 30.446233,30.451125 0 0 0 8.2517264,0 2.359778,2.3601571 0 0 0 1.330312,-1.330525 15.401024,15.403499 0 0 0 0.281854,-4.126526 z m -2.148888,0 A 3.5881419,3.5887183 0 1 1 7.002374,3.410782 3.5831444,3.5837201 0 0 1 10.591515,7.0005 Z m -1.256349,0 A 2.3327919,2.3331667 0 1 0 7.002374,9.3336667 2.3347909,2.335166 0 0 0 9.335166,7.0005 Z m 1.399275,-2.8989647 a 0.83756626,0.83770082 0 1 1 0.836567,-0.8377008 0.8355673,0.83570154 0 0 1 -0.832569,0.8377008 z"
+     fill="#2baaec"
+     style="stroke-width:0.999563" />
+</svg>

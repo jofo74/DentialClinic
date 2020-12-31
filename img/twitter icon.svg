@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="12.996"
+   viewBox="0 0 16 12.996"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="twitter icon.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview5"
+     showgrid="false"
+     inkscape:zoom="8.140625"
+     inkscape:cx="16.363532"
+     inkscape:cy="6.0745351"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     id="twitter_icon"
+     data-name="twitter icon"
+     d="M 12.569375,3.9484747 A 8.166375,10.055096 0 0 1 0,12.41445 5.83275,7.1817496 0 0 0 0.693,12.458622 5.747875,7.0772447 0 0 0 4.255125,10.950303 2.87525,3.5402384 0 0 1 1.572375,8.5003637 3.668,4.5163358 0 0 0 2.114,8.5542322 3.045,3.7492482 0 0 0 2.87,8.4346441 2.87,3.5337742 0 0 1 0.56875,4.9676669 V 4.9234947 A 2.8875,3.5553216 0 0 0 1.8655,5.3716807 2.87175,3.5359289 0 0 1 0.977375,0.64741253 8.155875,10.042167 0 0 0 6.89325,4.3438696 3.215625,3.9593354 0 0 1 6.822375,3.5347646 2.87175,3.5359289 0 0 1 11.788,1.1171459 5.635,6.9382639 0 0 0 13.608875,0.26386875 2.853375,3.5133041 0 0 1 12.348,2.2106767 5.775,7.1106431 0 0 0 14,1.66445 6.1915,7.6234713 0 0 1 12.5615,3.4905924 c 0.0079,0.1519092 0.0079,0.3048958 0.0079,0.4578823 z"
+     fill="#25e6c8"
+     style="stroke-width:0.970926" />
+</svg>
