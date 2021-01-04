@@ -1,13 +1,12 @@
-/* font-family: 'Roboto';
-font-family: 'Roboto Slab'; */
+// Färg variabler
 
-/* COMMON */
 $l-gray: #626262;
 $d-gray: #363636;
 $turq: #25E6C8;
 $std-blue: #2BAAEC;
 $l-blue: #2BAAECCC;
 
+// Färg variabler - stop...
 
 *,
 *::before,
@@ -60,7 +59,7 @@ hr {
     margin-bottom: 36px;
 }
 
-/* TOP MENU */
+// TOP MENU
 
 
 .top-menu {
@@ -95,7 +94,9 @@ hr {
     font-size: 130%;
 }
 
-/* MAIN MENU */
+// TOP MENU - stop...
+
+// MAIN MENU
 
 #main-tand-no-txt {
     display: none
@@ -124,7 +125,7 @@ hr {
     text-decoration: none;
     color: $d-gray;
     transition: .2s ease;
-    
+
 }
 
 .fa-main:hover {
@@ -134,7 +135,9 @@ hr {
     box-shadow: 3px 3px 5px 3px #3333333d;
 }
 
-/* SHOWCASE */
+// MAIN MENU - stop...
+
+// SHOWCASE
 
 .showcase {
     display: flex;
@@ -144,10 +147,14 @@ hr {
     padding: 0px 0px 0px 190px;
     margin: 0;
     width: 100%;
-    button{transition: all .2s ease;}
-    
+
+    button {
+        transition: all .2s ease;
+    }
+
 
 }
+
 .about-btn:hover {
     content: "";
     background: $std-blue;
@@ -187,7 +194,9 @@ hr {
     color: #fff;
 }
 
-/* ABOUT US */
+// SHOWCASE - stop...
+
+// ABOUT US
 
 .about-us {
     display: flex;
@@ -243,8 +252,9 @@ hr {
     padding: 36px 36px 0px 0px;
 }
 
-/* SERVICES */
+// ABOUT US - stop...
 
+// SERVICES 
 .service-body {
     background-color: #f7f7f7;
     display: flex;
@@ -378,7 +388,9 @@ button {
     z-index: 1;
 }
 
-/* APPOINTMENT */
+// SERVICES - stop...
+
+// APPOINTMENT
 
 .appointment {
     position: relative;
@@ -415,7 +427,9 @@ button {
     }
 }
 
-/* FOOTER */
+// APPOINTMENT - stop...
+
+// FOOTER
 
 footer {
     background-color: $std-blue;
@@ -444,6 +458,9 @@ footer {
     font-size: 130%;
 }
 
+// FOOTER - stop...
+
+// Media Queries
 
 @media(max-width: 1325px) {
     .showcase {
@@ -665,7 +682,8 @@ footer {
     footer {
         .social {
             display: flex;
-
         }
     }
 }
+
+// Media Queries - stop...
